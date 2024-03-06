@@ -1,0 +1,116 @@
+.header {
+  background-color: #541554;
+  display: flex;
+  font-size: 16px;
+  height: 80px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 500px;
+ 
+}
+
+.logo {
+  width: 150px;
+ 
+  
+}
+
+.menu {
+  display: flex;
+  list-style: none;
+  gap: 10px;
+  
+  }
+
+.menu a, nav a {
+  color: white;
+  text-decoration: none;
+ padding: 10px;
+text-transform: uppercase;
+  
+}
+.section{
+  font-size: 1.125rem;
+}
+
+
+
+video {
+  display: inline-block;
+    vertical-align: baseline;
+  max-height: 400px;
+  display: flex;
+    font-size: 16px;
+    height: 80px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 1200px;
+  }
+   
+  img, video {
+      max-width: 100%;
+      height: auto;
+    }
+
+nav {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+  align-items: center;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+  border-radius: 4px;
+  padding: 10px  10px;
+}
+
+.texto-yellow{
+  color: #ecb22e;
+  text-decoration: none;
+    border-radius: 4px;
+    padding: 10px 20px 10px;
+    text-transform: uppercase;
+}
+P{
+  color: white;
+  text-decoration: none;
+    border-radius: 4px;
+    padding: 10px 20px 10px;
+    text-transform: uppercase;
+}
+
+.button{
+  
+      background-color: #fff;
+      text-decoration: none;
+      border-radius: 4px;
+      padding: 10px 20px 10px;
+      text-transform: uppercase;
+      
+      
+}
+
+.btn {
+  background-color: white;
+  color: black;
+  border: 2px solid white;
+}
+.section{
+  background-color: #541554;
+   gap: 10px;
+  padding: 20px;
+   
+}
+img{
+  display: flex;
+  width: 202vh;
+  
+}
+.footer{
+ 
+    
+}
