@@ -4,8 +4,11 @@ const button$$ = document.querySelector("#btnToClick");
 //     console.log(e);
 // });
 
-const eventoClick = (e) => {
+const a = (e) => {
   console.log(e);
 };
 
-button$$.onclick = eventoClick;
+// button$$.onclick = eventoClick;
+button$$.oninput = a;
+
+button$$.addEventListener("input", a);
